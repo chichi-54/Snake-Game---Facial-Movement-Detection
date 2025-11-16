@@ -1,5 +1,7 @@
 
 <img width="2640" height="1485" alt="Image" src="https://github.com/user-attachments/assets/f46dcd35-8d04-4935-a2f8-73e8b141fbb3" />
+
+---
 # 🐍 Nokia Snake Game – YOLO Face and Hand Gesture Control
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
@@ -7,7 +9,7 @@
 [![YOLO](https://img.shields.io/badge/Ultralytics-YOLOv8-orange.svg)](https://ultralytics.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Created by Chetachi Ikedinachi**
+
 
 ---
 
